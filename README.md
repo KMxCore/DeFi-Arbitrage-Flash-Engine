@@ -12,3 +12,6 @@ A high-performance Python engine designed to monitor price discrepancies between
 
 ## 📩 Contact
 **Developer:** KM (core.km.dev@proton.me)
+
+## 📈 Live Insights
+Check our [Real-Time Performance Dashboard](./PERFORMANCE.md) updated every hour via GitHub Actions. 🔥
