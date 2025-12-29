@@ -17,4 +17,4 @@ A high-performance Python engine designed to monitor price discrepancies between
 Check our [Real-Time Performance Dashboard](./PERFORMANCE.md) updated every hour via GitHub Actions. 🔥
 
 ## 🛡️ Smart Contracts
-Integrated with **Foundry**. Check `/src` for the Flash Loan execution logic in Solidity. ⛓️
+Standard Foundry Environment. Production-ready Smart Contracts for Flash Loan execution. Check `/src` for the Flash Loan execution logic in Solidity. ⛓️
